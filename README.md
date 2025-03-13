@@ -61,59 +61,7 @@
 # 🤖 OpenSource - HacktoberFest (2023 - 2024)
 
  [![An image of @ahsankhalid618's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahsankhalid618)](https://holopin.io/@ahsankhalid618)
- 
-###
-# 💎 Problem Solving Stats:
-  
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-<a href="https://stackoverflow.com/users/16762504/ahsan-khalid">
-    <img src="https://stackoverflow-card.vercel.app/?userID=16762504&theme=solarized-dark"  alt="Stack Overflow Stats" style="display: inline-block;"/>
-  </a>
- 
-</td>
-<td width="50%" align="center">
-
-  <img src="https://leetcard.jacoblin.cool/ahsan_khalid?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
-
-  </td>
- 
-</tr>
-</table>
-
-
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;"> GitHub Stats:
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Ahsankhalid618&theme=vision-friendly-dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsankhalid618&theme=vision-friendly-dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ahsankhalid618&theme=vision-friendly-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-  <tr>
-  <td colspan="2"  align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsankhalid618&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20graph&line=ffb000&area_color=f1e05a&hide_border=true" alt="Activity Graph" />
-  </td>
-  </tr>
-</tr>
-</table>
-
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahsankhalid618&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
 
 ### ✍️ Random Dev Quote
 <p align="center">
