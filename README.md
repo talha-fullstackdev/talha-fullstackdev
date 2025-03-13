@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023  <br>📚 I'm currently learning Advanced Node.js, System Design, and Backend Architecture  <br>🎯 Goals: Master MERN stack development and land a full-time MERN stack developer role  <br>🎲 Fun fact: I debug my code better than I remember my passwords 😅</p>
+<p align="left">✨ Creating bugs since 2020  <br>📚 I'm currently learning Advanced Node.js, System Design, and Backend Architecture  <br>🎯 Goals: Master MERN stack development and land a full-time MERN stack developer role  <br>🎲 Fun fact: I debug my code better than I remember my passwords 😅</p>
 
 ###
 
