@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Talha Nawaz and i am a Software Engineer</p>
+<p align="left">My name is Talha Nawaz and i am a Software Engineer. </p>
 
 ###
 
